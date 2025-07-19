@@ -1,0 +1,8 @@
+
+title: Ghar Ki Lucknowi Biryani
+description: Authentic Lucknowi Biryani Delivered to Your Doorstep
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+minimal_mistakes_skin: default
+markdown: kramdown
